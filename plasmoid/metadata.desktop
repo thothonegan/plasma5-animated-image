@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Animated Image
+Comment=Simple image provider that does animated gifs
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Kenneth Perry (thothonegan)
+X-KDE-PluginInfo-Email=thothonegan@gmail.com
+X-KDE-PluginInfo-License=GPLv2
+X-KDE-PluginInfo-Name=com.hackerguild.plasma5.animatedimage
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=hackerguild.com
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
+X-KDE-PluginInfo-Category=Graphics
+
